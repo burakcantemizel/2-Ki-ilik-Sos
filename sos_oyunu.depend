@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546036700 source:e:\projeler\c\sos_oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
